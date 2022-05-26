@@ -1,0 +1,6 @@
+par(mfrow=c(2,2))
+plot(x,y, type="p")
+plot(x,y, type="l")
+plot(x,y, type="b")
+plot(x,y, type="o")
+par(mfrow=c(1,1))
